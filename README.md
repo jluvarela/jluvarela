@@ -1,9 +1,8 @@
 ### Olá! Me chamo João Lucas!
 
-- 🐱‍💻 Atualmente estou estudando: 
-- 🐱‍👤 Node.js
-- 🐱‍👤 Python
-- 🐱‍👤 C++
+- Atualmente estou estudando:
+-  React
+-  Python
 
 <div>
   <a href="https://github.com/jluvarela">
