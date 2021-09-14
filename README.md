@@ -2,7 +2,7 @@
 ## Olá! Me chamo João Lucas!
 
 ### Atualmente estou esudando 
-<div style="display: inline_block"><br />
+<div style="display: inline_block">
   React
   <img alt="João-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
