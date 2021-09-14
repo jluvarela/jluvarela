@@ -1,8 +1,8 @@
-<div style="text-align: center">
-  <h2>Olá! Me chamo João Lucas</h2>
-  <p> - Atualmente estou estudando:</p>
-  <p> - React</p>
-</div>
+
+  <h2 style="text-align: center">Olá! Me chamo João Lucas</h2>
+  <p style="text-align: center" - Atualmente estou estudando:</p>
+  <p style="text-align: center"> - React</p>
+
 <div>
   <a href="https://github.com/jluvarela">
   <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=jluvarela&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
