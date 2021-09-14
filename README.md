@@ -1,7 +1,7 @@
 
-  <h2 style="text-align: center">Olá! Me chamo João Lucas</h2>
-  <p style="text-align: center" - Atualmente estou estudando:</p>
-  <p style="text-align: center"> - React</p>
+### Olá! Me chamo João Lucas!
+
+- Atualmente estou esudando React
 
 <div>
   <a href="https://github.com/jluvarela">
