@@ -3,8 +3,8 @@
 
 ### Atualmente estou esudando 
 <div style="display: inline_block"><br />
-  #### React
-  <img align="center" alt="João-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  React
+  <img alt="João-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
 <div>
